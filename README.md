@@ -20,4 +20,8 @@ Run `predict_image.py` and specify the flags for an image file containing at lea
 
 # Reference
 
-A proper reference for this model will be provided after publication.
+This model is the output of a published study by Jordan J. Bird, Azhar Aulia Saputra, Naoyuki Kubota, and Ahmad Lotfi. 
+
+Bird, J. J., Saputra, A. A., Kubota, N., Lotfi, A. (2022). Affective Computing in Computer Vision: A Study on Facial Expression Recognition. 13th International Congress on Advanced Applied Informatics Winter (IIAI-AAI-Winter) (pp. 84-88).
+
+[Download PDF](http://jordanjamesbird.com/publications/Affective-Computing-in-Computer-Vision-A-Study-on-Facial-Expression-Recognition.pdf)
