@@ -10,7 +10,9 @@ The model is a mirrored, branched CNN. The CNN contains 4 layers of 64 filters f
 
 According to Russell (1980), _"emotional valence describes the extent to which an emotion is positive or negative, whereas arousal refers to its intensity, i.e., the strength of the associated emotional state"_. 
 
-As shown in the example, the first value output corresponds to the valence and the second corresponds to the arousal. 
+![diagram](https://i.imgur.com/L8XLsuW.png)
+
+As shown in the example code, the first value output corresponds to the valence and the second corresponds to the arousal. 
 
 # Usage
 
